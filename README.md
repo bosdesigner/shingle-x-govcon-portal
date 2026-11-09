@@ -4,7 +4,7 @@ Internal, password-gated portal for the Shingle X LLC government-contracting com
 Built from `BUILD.md` (the original build spec). Document text lives in `content/` and is rendered
 verbatim — edit the markdown there, never the components.
 
-This folder is a self-contained app, separate from the Phalanx investor-deck site at the repo root.
+Originally built in `bosdesigner/PHALANX_DECK_WEBSITE` and moved here as its own repository.
 
 ## Stack
 Vite + React + TypeScript + Tailwind, `react-router-dom`, `react-markdown` + `remark-gfm` +
@@ -34,7 +34,7 @@ npm run build && PORTAL_PASSWORD=choose-one npm start   # production
 ```
 
 ## Replit
-Create a new Replit App from this folder (or import the repo and `cd govcon-portal`). `.replit` here
+Import this repository as a new Replit App. `.replit`
 runs `npm run dev`. The deployment runs `npm run build`, then `npm start` (Autoscale). Add
 `PORTAL_PASSWORD` in Secrets. Use `/healthz` as the health check.
 
