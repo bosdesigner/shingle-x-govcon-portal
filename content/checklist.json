@@ -1,0 +1,23 @@
+{
+  "asOf": "2026-11-09",
+  "statusOptions": ["Not started", "Drafted", "In review", "Done"],
+  "items": [
+    { "n": 1,  "item": "UEI and CAGE code", "owner": "Greg Phillips", "status": "Done", "docLabel": "SAM.gov", "route": "https://sam.gov/" },
+    { "n": 2,  "item": "Clear the SAM legal name / address mismatch (match the IRS EIN letter exactly)", "owner": "Compliance Officer", "status": "Not started", "docLabel": "7 · Past Performance & Corporate File", "route": "/past-performance" },
+    { "n": 3,  "item": "SAM reps and certs completed; annual renewal reminder set", "owner": "Compliance Officer", "status": "Not started", "docLabel": "2 · Compliance Manual", "route": "/compliance-manual" },
+    { "n": 4,  "item": "Capability statement (PDF)", "owner": "Ben Strout / Greg Phillips", "status": "Drafted", "docLabel": "1 · Capability Statement", "route": "/capability-statement" },
+    { "n": 5,  "item": "Government Contracts Compliance Manual adopted, Compliance Officer named", "owner": "CEO + counsel", "status": "Drafted", "docLabel": "2 · Compliance Manual", "route": "/compliance-manual" },
+    { "n": 6,  "item": "TAA policy + Product Origin Register + supplier origin certificates", "owner": "Ops lead", "status": "Drafted", "docLabel": "3 · TAA / Country of Origin", "route": "/taa-country-of-origin" },
+    { "n": 7,  "item": "Information safeguarding policy (52.204-21 / 52.240-93)", "owner": "Ben Strout", "status": "Drafted", "docLabel": "4 · Cybersecurity Policy", "route": "/cybersecurity-policy" },
+    { "n": 8,  "item": "Asset and Section 889 telecom inventory (check facility cameras)", "owner": "Ben Strout", "status": "Not started", "docLabel": "4 · Cybersecurity Policy", "route": "/cybersecurity-policy" },
+    { "n": 9,  "item": "Product classification decision + FDA registration and listing per SKU", "owner": "Dr. Gill", "status": "Not started", "docLabel": "5 · Regulatory & Quality File", "route": "/regulatory-quality" },
+    { "n": 10, "item": "Quality SOP set (complaints, adverse events, recall, lot traceability)", "owner": "Justin Kirkland", "status": "Drafted", "docLabel": "5 · Regulatory & Quality File", "route": "/regulatory-quality" },
+    { "n": 11, "item": "Product liability + GL insurance certificates", "owner": "Ops lead", "status": "Not started", "docLabel": "5 · Regulatory & Quality File", "route": "/regulatory-quality" },
+    { "n": 12, "item": "VA pilot past-performance write-up + reference letter", "owner": "Greg Phillips", "status": "Drafted", "docLabel": "7 · Past Performance & Corporate File", "route": "/past-performance" },
+    { "n": 13, "item": "Corporate binder (formation, EIN, financials, bank letter, bios)", "owner": "Compliance Officer", "status": "Not started", "docLabel": "7 · Past Performance & Corporate File", "route": "/past-performance" },
+    { "n": 14, "item": "SAM.gov saved searches (PSC 6505/6510/6515; VA + DLA)", "owner": "Craig Thompson", "status": "Not started", "docLabel": "6 · VA FSS Offer Package", "route": "/va-fss-offer" },
+    { "n": 15, "item": "VA eCMS Vendor Portal account", "owner": "Greg Phillips", "status": "Not started", "docLabel": "6 · VA FSS Offer Package", "route": "/va-fss-offer" },
+    { "n": 16, "item": "VA FSS offer (65 I B or 65 II A) once the eligibility gate is met", "owner": "Greg Phillips + counsel", "status": "Not started", "docLabel": "6 · VA FSS Offer Package", "route": "/va-fss-offer" },
+    { "n": 17, "item": "GovCon attorney review of the full suite", "owner": "CEO", "status": "Not started", "docLabel": "All documents", "route": "/" }
+  ]
+}
